@@ -71,7 +71,7 @@ My goal is to build projects that are useful, efficient, and easy to improve.
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=FaaRamadhan2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
+    src="https://github-readme-stats.vercel.app/api?username=FaaRamadhan2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=14400"
     alt="GitHub Stats"
   />
 </p>
@@ -79,7 +79,7 @@ My goal is to build projects that are useful, efficient, and easy to improve.
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FaaRamadhan2&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaaRamadhan2&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=14400"
     alt="Top Languages"
   />
 </p>
