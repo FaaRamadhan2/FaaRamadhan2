@@ -69,29 +69,19 @@ My goal is to build projects that are useful, efficient, and easy to improve.
 ## GitHub Stats
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=FaaRamadhan2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    />
-    <img
-      height="170"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=FaaRamadhan2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-      alt="GitHub Stats"
-    />
-  </picture>
+  <img
+    height="170"
+    src="https://github-readme-stats-faa.vercel.app/api?username=FaaRamadhan2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="Faa Ramadhan GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FaaRamadhan2&layout=compact&theme=tokyonight&hide_border=true"
-    />
-    <img
-      height="170"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FaaRamadhan2&layout=compact&theme=tokyonight&hide_border=true"
-      alt="Top Languages"
-    />
-  </picture>
+  <img
+    height="170"
+    src="https://github-readme-stats-faa.vercel.app/api/top-langs/?username=FaaRamadhan2&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
