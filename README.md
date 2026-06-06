@@ -71,11 +71,11 @@ My goal is to build projects that are useful, efficient, and easy to improve.
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=FaaRamadhan2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=FaaRamadhan2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     />
     <img
       height="170"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=FaaRamadhan2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=FaaRamadhan2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
       alt="GitHub Stats"
     />
   </picture>
