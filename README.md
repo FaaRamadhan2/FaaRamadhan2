@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/FaaRamadhan2">
-    <img src="https://img.shields.io/badge/GitHub-FaaRamadhan2-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/FaaRamadhann">
+    <img src="https://img.shields.io/badge/GitHub-FaaRamadhann-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@ My goal is to build projects that are useful, efficient, and easy to improve.
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-faa.vercel.app/api?username=FaaRamadhan2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2"
+    src="https://github-readme-stats-faa.vercel.app/api?username=FaaRamadhann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2"
     alt="Faa Ramadhan GitHub Stats"
   />
 </p>
@@ -79,7 +79,7 @@ My goal is to build projects that are useful, efficient, and easy to improve.
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-faa.vercel.app/api/top-langs/?username=FaaRamadhan2&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-faa.vercel.app/api/top-langs/?username=FaaRamadhann&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
@@ -90,14 +90,14 @@ My goal is to build projects that are useful, efficient, and easy to improve.
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=FaaRamadhan2&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=FaaRamadhann&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=FaaRamadhan2&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=FaaRamadhann&theme=tokyo-night&hide_border=true"
     alt="GitHub Activity Graph"
   />
 </p>
@@ -107,7 +107,7 @@ My goal is to build projects that are useful, efficient, and easy to improve.
 ## GitHub Profile
 
 <p align="center">
-  <a href="https://github.com/FaaRamadhan2">
+  <a href="https://github.com/FaaRamadhann">
     <img src="https://img.shields.io/badge/View_My_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -119,4 +119,4 @@ My goal is to build projects that are useful, efficient, and easy to improve.
 This README is maintained inside:
 
 ```txt
-FaaRamadhan2/FaaRamadhan2
+FaaRamadhann/FaaRamadhann
